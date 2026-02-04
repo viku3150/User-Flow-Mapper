@@ -231,10 +231,3 @@ npm start https://example.com --config=crawl-config.json
 | Content     | Info, blogs          |
 | Transaction | Cart, checkout       |
 | Exit        | Logout, confirmation |
-
-If you want, I can also:
-- Add badges (Node, Next.js, License)
-- Write a short demo GIF section
-- Create a CONTRIBUTING.md
-- Or simplify this for assignment submission.
-```
