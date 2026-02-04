@@ -1,0 +1,949 @@
+{
+  "graph": {
+    "nodes": [
+      {
+        "id": "https://www.hyperdx.io/blog/datadog-grafana",
+        "label": "Datadog vs Grafana - HyperDX Blog",
+        "url": "https://www.hyperdx.io/blog/datadog-grafana",
+        "type": "content",
+        "depth": 2,
+        "pageTitle": "Datadog vs Grafana - HyperDX Blog"
+      },
+      {
+        "id": "https://www.hyperdx.io/blog/datadog-vs-new-relic",
+        "label": "Datadog vs New Relic - HyperDX Blog",
+        "url": "https://www.hyperdx.io/blog/datadog-vs-new-relic",
+        "type": "content",
+        "depth": 2,
+        "pageTitle": "Datadog vs New Relic - HyperDX Blog"
+      },
+      {
+        "id": "https://www.hyperdx.io/docs/install/browser",
+        "label": "Browser - HyperDX Docs",
+        "url": "https://www.hyperdx.io/docs/install/browser",
+        "type": "content",
+        "depth": 1,
+        "pageTitle": "Browser - HyperDX Docs"
+      },
+      {
+        "id": "https://www.hyperdx.io/blog/logs-vs-traces",
+        "label": "Logs Vs Traces",
+        "url": "https://www.hyperdx.io/blog/logs-vs-traces",
+        "type": "content",
+        "depth": 2,
+        "pageTitle": "Logs versus Traces: The Comprehensive Difference in 2025 - HyperDX Blog"
+      },
+      {
+        "id": "https://www.hyperdx.io/terms/privacy",
+        "label": "Privacy Policy - HyperDX",
+        "url": "https://www.hyperdx.io/terms/privacy",
+        "type": "content",
+        "depth": 1,
+        "pageTitle": "Privacy Policy - HyperDX"
+      },
+      {
+        "id": "https://www.hyperdx.io/docs/install/javascript",
+        "label": "Node.js - HyperDX Docs",
+        "url": "https://www.hyperdx.io/docs/install/javascript",
+        "type": "content",
+        "depth": 1,
+        "pageTitle": "Node.js - HyperDX Docs"
+      },
+      {
+        "id": "https://www.hyperdx.io/docs/install/java",
+        "label": "Java Integration - HyperDX Docs",
+        "url": "https://www.hyperdx.io/docs/install/java",
+        "type": "content",
+        "depth": 1,
+        "pageTitle": "Java Integration - HyperDX Docs"
+      },
+      {
+        "id": "https://www.hyperdx.io/docs/install/python",
+        "label": "Python - HyperDX Docs",
+        "url": "https://www.hyperdx.io/docs/install/python",
+        "type": "content",
+        "depth": 1,
+        "pageTitle": "Python - HyperDX Docs"
+      },
+      {
+        "id": "https://www.hyperdx.io/docs/install/golang",
+        "label": "Golang - HyperDX Docs",
+        "url": "https://www.hyperdx.io/docs/install/golang",
+        "type": "content",
+        "depth": 1,
+        "pageTitle": "Golang - HyperDX Docs"
+      },
+      {
+        "id": "https://www.hyperdx.io/docs/install/elixir",
+        "label": "Elixir - HyperDX Docs",
+        "url": "https://www.hyperdx.io/docs/install/elixir",
+        "type": "content",
+        "depth": 1,
+        "pageTitle": "Elixir - HyperDX Docs"
+      },
+      {
+        "id": "https://www.hyperdx.io/docs/install/react-native",
+        "label": "React Native - HyperDX Docs",
+        "url": "https://www.hyperdx.io/docs/install/react-native",
+        "type": "content",
+        "depth": 1,
+        "pageTitle": "React Native - HyperDX Docs"
+      },
+      {
+        "id": "https://www.hyperdx.io/docs/install/kubernetes",
+        "label": "Kubernetes - HyperDX Docs",
+        "url": "https://www.hyperdx.io/docs/install/kubernetes",
+        "type": "content",
+        "depth": 1,
+        "pageTitle": "Kubernetes - HyperDX Docs"
+      },
+      {
+        "id": "https://www.hyperdx.io/docs/install/vercel",
+        "label": "Vercel - HyperDX Docs",
+        "url": "https://www.hyperdx.io/docs/install/vercel",
+        "type": "content",
+        "depth": 1,
+        "pageTitle": "Vercel - HyperDX Docs"
+      },
+      {
+        "id": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "label": "AWS EC2 - HyperDX Docs",
+        "url": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "type": "content",
+        "depth": 1,
+        "pageTitle": "AWS EC2 - HyperDX Docs"
+      },
+      {
+        "id": "https://www.hyperdx.io/",
+        "label": "Home",
+        "url": "https://www.hyperdx.io/",
+        "type": "entry",
+        "depth": 0,
+        "pageTitle": "HyperDX - Affordable full-stack production debugging & monitoring."
+      }
+    ],
+    "edges": [
+      {
+        "id": "edge-0",
+        "source": "https://www.hyperdx.io/",
+        "target": "https://www.hyperdx.io/docs/install/javascript",
+        "weight": 1,
+        "label": "Node.js"
+      },
+      {
+        "id": "edge-1",
+        "source": "https://www.hyperdx.io/",
+        "target": "https://www.hyperdx.io/docs/install/browser",
+        "weight": 1,
+        "label": "Browser"
+      },
+      {
+        "id": "edge-2",
+        "source": "https://www.hyperdx.io/",
+        "target": "https://www.hyperdx.io/docs/install/python",
+        "weight": 1,
+        "label": "Python"
+      },
+      {
+        "id": "edge-3",
+        "source": "https://www.hyperdx.io/",
+        "target": "https://www.hyperdx.io/docs/install/java",
+        "weight": 1,
+        "label": "Java"
+      },
+      {
+        "id": "edge-4",
+        "source": "https://www.hyperdx.io/",
+        "target": "https://www.hyperdx.io/docs/install/golang",
+        "weight": 1,
+        "label": "Golang"
+      },
+      {
+        "id": "edge-5",
+        "source": "https://www.hyperdx.io/",
+        "target": "https://www.hyperdx.io/docs/install/elixir",
+        "weight": 1,
+        "label": "Elixir"
+      },
+      {
+        "id": "edge-6",
+        "source": "https://www.hyperdx.io/",
+        "target": "https://www.hyperdx.io/docs/install/react-native",
+        "weight": 1,
+        "label": "React Native"
+      },
+      {
+        "id": "edge-7",
+        "source": "https://www.hyperdx.io/",
+        "target": "https://www.hyperdx.io/docs/install/kubernetes",
+        "weight": 1,
+        "label": "Kubernetes"
+      },
+      {
+        "id": "edge-8",
+        "source": "https://www.hyperdx.io/",
+        "target": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "weight": 1,
+        "label": "AWS EC2"
+      },
+      {
+        "id": "edge-9",
+        "source": "https://www.hyperdx.io/",
+        "target": "https://www.hyperdx.io/docs/install/vercel",
+        "weight": 1,
+        "label": "Vercel"
+      },
+      {
+        "id": "edge-10",
+        "source": "https://www.hyperdx.io/",
+        "target": "https://www.hyperdx.io/terms/privacy",
+        "weight": 1,
+        "label": "Privacy Policy"
+      },
+      {
+        "id": "edge-11",
+        "source": "https://www.hyperdx.io/docs/install/javascript",
+        "target": "https://www.hyperdx.io/docs/install/browser",
+        "weight": 1,
+        "label": "Browser JS"
+      },
+      {
+        "id": "edge-12",
+        "source": "https://www.hyperdx.io/docs/install/javascript",
+        "target": "https://www.hyperdx.io/docs/install/elixir",
+        "weight": 1,
+        "label": "Elixir"
+      },
+      {
+        "id": "edge-13",
+        "source": "https://www.hyperdx.io/docs/install/javascript",
+        "target": "https://www.hyperdx.io/docs/install/golang",
+        "weight": 1,
+        "label": "Golang"
+      },
+      {
+        "id": "edge-14",
+        "source": "https://www.hyperdx.io/docs/install/javascript",
+        "target": "https://www.hyperdx.io/docs/install/java",
+        "weight": 1,
+        "label": "Java"
+      },
+      {
+        "id": "edge-15",
+        "source": "https://www.hyperdx.io/docs/install/javascript",
+        "target": "https://www.hyperdx.io/docs/install/javascript",
+        "weight": 2,
+        "label": "Node.js"
+      },
+      {
+        "id": "edge-16",
+        "source": "https://www.hyperdx.io/docs/install/javascript",
+        "target": "https://www.hyperdx.io/docs/install/python",
+        "weight": 1,
+        "label": "Python"
+      },
+      {
+        "id": "edge-17",
+        "source": "https://www.hyperdx.io/docs/install/javascript",
+        "target": "https://www.hyperdx.io/docs/install/react-native",
+        "weight": 1,
+        "label": "React Native"
+      },
+      {
+        "id": "edge-18",
+        "source": "https://www.hyperdx.io/docs/install/javascript",
+        "target": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "weight": 1,
+        "label": "AWS EC2"
+      },
+      {
+        "id": "edge-19",
+        "source": "https://www.hyperdx.io/docs/install/javascript",
+        "target": "https://www.hyperdx.io/docs/install/kubernetes",
+        "weight": 1,
+        "label": "Kubernetes"
+      },
+      {
+        "id": "edge-20",
+        "source": "https://www.hyperdx.io/docs/install/javascript",
+        "target": "https://www.hyperdx.io/docs/install/vercel",
+        "weight": 1,
+        "label": "Vercel"
+      },
+      {
+        "id": "edge-21",
+        "source": "https://www.hyperdx.io/docs/install/browser",
+        "target": "https://www.hyperdx.io/docs/install/browser",
+        "weight": 2,
+        "label": "Browser JS"
+      },
+      {
+        "id": "edge-22",
+        "source": "https://www.hyperdx.io/docs/install/browser",
+        "target": "https://www.hyperdx.io/docs/install/elixir",
+        "weight": 1,
+        "label": "Elixir"
+      },
+      {
+        "id": "edge-23",
+        "source": "https://www.hyperdx.io/docs/install/browser",
+        "target": "https://www.hyperdx.io/docs/install/golang",
+        "weight": 1,
+        "label": "Golang"
+      },
+      {
+        "id": "edge-24",
+        "source": "https://www.hyperdx.io/docs/install/browser",
+        "target": "https://www.hyperdx.io/docs/install/java",
+        "weight": 1,
+        "label": "Java"
+      },
+      {
+        "id": "edge-25",
+        "source": "https://www.hyperdx.io/docs/install/browser",
+        "target": "https://www.hyperdx.io/docs/install/javascript",
+        "weight": 1,
+        "label": "Node.js"
+      },
+      {
+        "id": "edge-26",
+        "source": "https://www.hyperdx.io/docs/install/browser",
+        "target": "https://www.hyperdx.io/docs/install/python",
+        "weight": 1,
+        "label": "Python"
+      },
+      {
+        "id": "edge-27",
+        "source": "https://www.hyperdx.io/docs/install/browser",
+        "target": "https://www.hyperdx.io/docs/install/react-native",
+        "weight": 1,
+        "label": "React Native"
+      },
+      {
+        "id": "edge-28",
+        "source": "https://www.hyperdx.io/docs/install/browser",
+        "target": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "weight": 1,
+        "label": "AWS EC2"
+      },
+      {
+        "id": "edge-29",
+        "source": "https://www.hyperdx.io/docs/install/browser",
+        "target": "https://www.hyperdx.io/docs/install/kubernetes",
+        "weight": 1,
+        "label": "Kubernetes"
+      },
+      {
+        "id": "edge-30",
+        "source": "https://www.hyperdx.io/docs/install/browser",
+        "target": "https://www.hyperdx.io/docs/install/vercel",
+        "weight": 1,
+        "label": "Vercel"
+      },
+      {
+        "id": "edge-31",
+        "source": "https://www.hyperdx.io/docs/install/java",
+        "target": "https://www.hyperdx.io/docs/install/browser",
+        "weight": 1,
+        "label": "Browser JS"
+      },
+      {
+        "id": "edge-32",
+        "source": "https://www.hyperdx.io/docs/install/java",
+        "target": "https://www.hyperdx.io/docs/install/elixir",
+        "weight": 1,
+        "label": "Elixir"
+      },
+      {
+        "id": "edge-33",
+        "source": "https://www.hyperdx.io/docs/install/java",
+        "target": "https://www.hyperdx.io/docs/install/golang",
+        "weight": 1,
+        "label": "Golang"
+      },
+      {
+        "id": "edge-34",
+        "source": "https://www.hyperdx.io/docs/install/java",
+        "target": "https://www.hyperdx.io/docs/install/java",
+        "weight": 2,
+        "label": "Java"
+      },
+      {
+        "id": "edge-35",
+        "source": "https://www.hyperdx.io/docs/install/java",
+        "target": "https://www.hyperdx.io/docs/install/javascript",
+        "weight": 1,
+        "label": "Node.js"
+      },
+      {
+        "id": "edge-36",
+        "source": "https://www.hyperdx.io/docs/install/java",
+        "target": "https://www.hyperdx.io/docs/install/python",
+        "weight": 1,
+        "label": "Python"
+      },
+      {
+        "id": "edge-37",
+        "source": "https://www.hyperdx.io/docs/install/java",
+        "target": "https://www.hyperdx.io/docs/install/react-native",
+        "weight": 1,
+        "label": "React Native"
+      },
+      {
+        "id": "edge-38",
+        "source": "https://www.hyperdx.io/docs/install/java",
+        "target": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "weight": 1,
+        "label": "AWS EC2"
+      },
+      {
+        "id": "edge-39",
+        "source": "https://www.hyperdx.io/docs/install/java",
+        "target": "https://www.hyperdx.io/docs/install/kubernetes",
+        "weight": 1,
+        "label": "Kubernetes"
+      },
+      {
+        "id": "edge-40",
+        "source": "https://www.hyperdx.io/docs/install/java",
+        "target": "https://www.hyperdx.io/docs/install/vercel",
+        "weight": 1,
+        "label": "Vercel"
+      },
+      {
+        "id": "edge-41",
+        "source": "https://www.hyperdx.io/docs/install/python",
+        "target": "https://www.hyperdx.io/docs/install/browser",
+        "weight": 1,
+        "label": "Browser JS"
+      },
+      {
+        "id": "edge-42",
+        "source": "https://www.hyperdx.io/docs/install/python",
+        "target": "https://www.hyperdx.io/docs/install/elixir",
+        "weight": 1,
+        "label": "Elixir"
+      },
+      {
+        "id": "edge-43",
+        "source": "https://www.hyperdx.io/docs/install/python",
+        "target": "https://www.hyperdx.io/docs/install/golang",
+        "weight": 1,
+        "label": "Golang"
+      },
+      {
+        "id": "edge-44",
+        "source": "https://www.hyperdx.io/docs/install/python",
+        "target": "https://www.hyperdx.io/docs/install/java",
+        "weight": 1,
+        "label": "Java"
+      },
+      {
+        "id": "edge-45",
+        "source": "https://www.hyperdx.io/docs/install/python",
+        "target": "https://www.hyperdx.io/docs/install/javascript",
+        "weight": 1,
+        "label": "Node.js"
+      },
+      {
+        "id": "edge-46",
+        "source": "https://www.hyperdx.io/docs/install/python",
+        "target": "https://www.hyperdx.io/docs/install/python",
+        "weight": 2,
+        "label": "Python"
+      },
+      {
+        "id": "edge-47",
+        "source": "https://www.hyperdx.io/docs/install/python",
+        "target": "https://www.hyperdx.io/docs/install/react-native",
+        "weight": 1,
+        "label": "React Native"
+      },
+      {
+        "id": "edge-48",
+        "source": "https://www.hyperdx.io/docs/install/python",
+        "target": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "weight": 1,
+        "label": "AWS EC2"
+      },
+      {
+        "id": "edge-49",
+        "source": "https://www.hyperdx.io/docs/install/python",
+        "target": "https://www.hyperdx.io/docs/install/kubernetes",
+        "weight": 1,
+        "label": "Kubernetes"
+      },
+      {
+        "id": "edge-50",
+        "source": "https://www.hyperdx.io/docs/install/python",
+        "target": "https://www.hyperdx.io/docs/install/vercel",
+        "weight": 1,
+        "label": "Vercel"
+      },
+      {
+        "id": "edge-51",
+        "source": "https://www.hyperdx.io/docs/install/golang",
+        "target": "https://www.hyperdx.io/docs/install/browser",
+        "weight": 1,
+        "label": "Browser JS"
+      },
+      {
+        "id": "edge-52",
+        "source": "https://www.hyperdx.io/docs/install/golang",
+        "target": "https://www.hyperdx.io/docs/install/elixir",
+        "weight": 1,
+        "label": "Elixir"
+      },
+      {
+        "id": "edge-53",
+        "source": "https://www.hyperdx.io/docs/install/golang",
+        "target": "https://www.hyperdx.io/docs/install/golang",
+        "weight": 2,
+        "label": "Golang"
+      },
+      {
+        "id": "edge-54",
+        "source": "https://www.hyperdx.io/docs/install/golang",
+        "target": "https://www.hyperdx.io/docs/install/java",
+        "weight": 1,
+        "label": "Java"
+      },
+      {
+        "id": "edge-55",
+        "source": "https://www.hyperdx.io/docs/install/golang",
+        "target": "https://www.hyperdx.io/docs/install/javascript",
+        "weight": 1,
+        "label": "Node.js"
+      },
+      {
+        "id": "edge-56",
+        "source": "https://www.hyperdx.io/docs/install/golang",
+        "target": "https://www.hyperdx.io/docs/install/python",
+        "weight": 1,
+        "label": "Python"
+      },
+      {
+        "id": "edge-57",
+        "source": "https://www.hyperdx.io/docs/install/golang",
+        "target": "https://www.hyperdx.io/docs/install/react-native",
+        "weight": 1,
+        "label": "React Native"
+      },
+      {
+        "id": "edge-58",
+        "source": "https://www.hyperdx.io/docs/install/golang",
+        "target": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "weight": 1,
+        "label": "AWS EC2"
+      },
+      {
+        "id": "edge-59",
+        "source": "https://www.hyperdx.io/docs/install/golang",
+        "target": "https://www.hyperdx.io/docs/install/kubernetes",
+        "weight": 1,
+        "label": "Kubernetes"
+      },
+      {
+        "id": "edge-60",
+        "source": "https://www.hyperdx.io/docs/install/golang",
+        "target": "https://www.hyperdx.io/docs/install/vercel",
+        "weight": 1,
+        "label": "Vercel"
+      },
+      {
+        "id": "edge-61",
+        "source": "https://www.hyperdx.io/docs/install/elixir",
+        "target": "https://www.hyperdx.io/docs/install/browser",
+        "weight": 1,
+        "label": "Browser JS"
+      },
+      {
+        "id": "edge-62",
+        "source": "https://www.hyperdx.io/docs/install/elixir",
+        "target": "https://www.hyperdx.io/docs/install/elixir",
+        "weight": 2,
+        "label": "Elixir"
+      },
+      {
+        "id": "edge-63",
+        "source": "https://www.hyperdx.io/docs/install/elixir",
+        "target": "https://www.hyperdx.io/docs/install/golang",
+        "weight": 1,
+        "label": "Golang"
+      },
+      {
+        "id": "edge-64",
+        "source": "https://www.hyperdx.io/docs/install/elixir",
+        "target": "https://www.hyperdx.io/docs/install/java",
+        "weight": 1,
+        "label": "Java"
+      },
+      {
+        "id": "edge-65",
+        "source": "https://www.hyperdx.io/docs/install/elixir",
+        "target": "https://www.hyperdx.io/docs/install/javascript",
+        "weight": 1,
+        "label": "Node.js"
+      },
+      {
+        "id": "edge-66",
+        "source": "https://www.hyperdx.io/docs/install/elixir",
+        "target": "https://www.hyperdx.io/docs/install/python",
+        "weight": 1,
+        "label": "Python"
+      },
+      {
+        "id": "edge-67",
+        "source": "https://www.hyperdx.io/docs/install/elixir",
+        "target": "https://www.hyperdx.io/docs/install/react-native",
+        "weight": 1,
+        "label": "React Native"
+      },
+      {
+        "id": "edge-68",
+        "source": "https://www.hyperdx.io/docs/install/elixir",
+        "target": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "weight": 1,
+        "label": "AWS EC2"
+      },
+      {
+        "id": "edge-69",
+        "source": "https://www.hyperdx.io/docs/install/elixir",
+        "target": "https://www.hyperdx.io/docs/install/kubernetes",
+        "weight": 1,
+        "label": "Kubernetes"
+      },
+      {
+        "id": "edge-70",
+        "source": "https://www.hyperdx.io/docs/install/elixir",
+        "target": "https://www.hyperdx.io/docs/install/vercel",
+        "weight": 1,
+        "label": "Vercel"
+      },
+      {
+        "id": "edge-71",
+        "source": "https://www.hyperdx.io/docs/install/react-native",
+        "target": "https://www.hyperdx.io/docs/install/browser",
+        "weight": 1,
+        "label": "Browser JS"
+      },
+      {
+        "id": "edge-72",
+        "source": "https://www.hyperdx.io/docs/install/react-native",
+        "target": "https://www.hyperdx.io/docs/install/elixir",
+        "weight": 1,
+        "label": "Elixir"
+      },
+      {
+        "id": "edge-73",
+        "source": "https://www.hyperdx.io/docs/install/react-native",
+        "target": "https://www.hyperdx.io/docs/install/golang",
+        "weight": 1,
+        "label": "Golang"
+      },
+      {
+        "id": "edge-74",
+        "source": "https://www.hyperdx.io/docs/install/react-native",
+        "target": "https://www.hyperdx.io/docs/install/java",
+        "weight": 1,
+        "label": "Java"
+      },
+      {
+        "id": "edge-75",
+        "source": "https://www.hyperdx.io/docs/install/react-native",
+        "target": "https://www.hyperdx.io/docs/install/javascript",
+        "weight": 1,
+        "label": "Node.js"
+      },
+      {
+        "id": "edge-76",
+        "source": "https://www.hyperdx.io/docs/install/react-native",
+        "target": "https://www.hyperdx.io/docs/install/python",
+        "weight": 1,
+        "label": "Python"
+      },
+      {
+        "id": "edge-77",
+        "source": "https://www.hyperdx.io/docs/install/react-native",
+        "target": "https://www.hyperdx.io/docs/install/react-native",
+        "weight": 2,
+        "label": "React Native"
+      },
+      {
+        "id": "edge-78",
+        "source": "https://www.hyperdx.io/docs/install/react-native",
+        "target": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "weight": 1,
+        "label": "AWS EC2"
+      },
+      {
+        "id": "edge-79",
+        "source": "https://www.hyperdx.io/docs/install/react-native",
+        "target": "https://www.hyperdx.io/docs/install/kubernetes",
+        "weight": 1,
+        "label": "Kubernetes"
+      },
+      {
+        "id": "edge-80",
+        "source": "https://www.hyperdx.io/docs/install/react-native",
+        "target": "https://www.hyperdx.io/docs/install/vercel",
+        "weight": 1,
+        "label": "Vercel"
+      },
+      {
+        "id": "edge-81",
+        "source": "https://www.hyperdx.io/docs/install/kubernetes",
+        "target": "https://www.hyperdx.io/docs/install/browser",
+        "weight": 1,
+        "label": "Browser JS"
+      },
+      {
+        "id": "edge-82",
+        "source": "https://www.hyperdx.io/docs/install/kubernetes",
+        "target": "https://www.hyperdx.io/docs/install/elixir",
+        "weight": 1,
+        "label": "Elixir"
+      },
+      {
+        "id": "edge-83",
+        "source": "https://www.hyperdx.io/docs/install/kubernetes",
+        "target": "https://www.hyperdx.io/docs/install/golang",
+        "weight": 1,
+        "label": "Golang"
+      },
+      {
+        "id": "edge-84",
+        "source": "https://www.hyperdx.io/docs/install/kubernetes",
+        "target": "https://www.hyperdx.io/docs/install/java",
+        "weight": 1,
+        "label": "Java"
+      },
+      {
+        "id": "edge-85",
+        "source": "https://www.hyperdx.io/docs/install/kubernetes",
+        "target": "https://www.hyperdx.io/docs/install/javascript",
+        "weight": 1,
+        "label": "Node.js"
+      },
+      {
+        "id": "edge-86",
+        "source": "https://www.hyperdx.io/docs/install/kubernetes",
+        "target": "https://www.hyperdx.io/docs/install/python",
+        "weight": 1,
+        "label": "Python"
+      },
+      {
+        "id": "edge-87",
+        "source": "https://www.hyperdx.io/docs/install/kubernetes",
+        "target": "https://www.hyperdx.io/docs/install/react-native",
+        "weight": 1,
+        "label": "React Native"
+      },
+      {
+        "id": "edge-88",
+        "source": "https://www.hyperdx.io/docs/install/kubernetes",
+        "target": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "weight": 1,
+        "label": "AWS EC2"
+      },
+      {
+        "id": "edge-89",
+        "source": "https://www.hyperdx.io/docs/install/kubernetes",
+        "target": "https://www.hyperdx.io/docs/install/kubernetes",
+        "weight": 2,
+        "label": "Kubernetes"
+      },
+      {
+        "id": "edge-90",
+        "source": "https://www.hyperdx.io/docs/install/kubernetes",
+        "target": "https://www.hyperdx.io/docs/install/vercel",
+        "weight": 1,
+        "label": "Vercel"
+      },
+      {
+        "id": "edge-91",
+        "source": "https://www.hyperdx.io/docs/install/vercel",
+        "target": "https://www.hyperdx.io/docs/install/browser",
+        "weight": 1,
+        "label": "Browser JS"
+      },
+      {
+        "id": "edge-92",
+        "source": "https://www.hyperdx.io/docs/install/vercel",
+        "target": "https://www.hyperdx.io/docs/install/elixir",
+        "weight": 1,
+        "label": "Elixir"
+      },
+      {
+        "id": "edge-93",
+        "source": "https://www.hyperdx.io/docs/install/vercel",
+        "target": "https://www.hyperdx.io/docs/install/golang",
+        "weight": 1,
+        "label": "Golang"
+      },
+      {
+        "id": "edge-94",
+        "source": "https://www.hyperdx.io/docs/install/vercel",
+        "target": "https://www.hyperdx.io/docs/install/java",
+        "weight": 1,
+        "label": "Java"
+      },
+      {
+        "id": "edge-95",
+        "source": "https://www.hyperdx.io/docs/install/vercel",
+        "target": "https://www.hyperdx.io/docs/install/javascript",
+        "weight": 1,
+        "label": "Node.js"
+      },
+      {
+        "id": "edge-96",
+        "source": "https://www.hyperdx.io/docs/install/vercel",
+        "target": "https://www.hyperdx.io/docs/install/python",
+        "weight": 1,
+        "label": "Python"
+      },
+      {
+        "id": "edge-97",
+        "source": "https://www.hyperdx.io/docs/install/vercel",
+        "target": "https://www.hyperdx.io/docs/install/react-native",
+        "weight": 1,
+        "label": "React Native"
+      },
+      {
+        "id": "edge-98",
+        "source": "https://www.hyperdx.io/docs/install/vercel",
+        "target": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "weight": 1,
+        "label": "AWS EC2"
+      },
+      {
+        "id": "edge-99",
+        "source": "https://www.hyperdx.io/docs/install/vercel",
+        "target": "https://www.hyperdx.io/docs/install/kubernetes",
+        "weight": 1,
+        "label": "Kubernetes"
+      },
+      {
+        "id": "edge-100",
+        "source": "https://www.hyperdx.io/docs/install/vercel",
+        "target": "https://www.hyperdx.io/docs/install/vercel",
+        "weight": 2,
+        "label": "Vercel"
+      },
+      {
+        "id": "edge-101",
+        "source": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "target": "https://www.hyperdx.io/docs/install/browser",
+        "weight": 1,
+        "label": "Browser JS"
+      },
+      {
+        "id": "edge-102",
+        "source": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "target": "https://www.hyperdx.io/docs/install/elixir",
+        "weight": 1,
+        "label": "Elixir"
+      },
+      {
+        "id": "edge-103",
+        "source": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "target": "https://www.hyperdx.io/docs/install/golang",
+        "weight": 1,
+        "label": "Golang"
+      },
+      {
+        "id": "edge-104",
+        "source": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "target": "https://www.hyperdx.io/docs/install/java",
+        "weight": 1,
+        "label": "Java"
+      },
+      {
+        "id": "edge-105",
+        "source": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "target": "https://www.hyperdx.io/docs/install/javascript",
+        "weight": 1,
+        "label": "Node.js"
+      },
+      {
+        "id": "edge-106",
+        "source": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "target": "https://www.hyperdx.io/docs/install/python",
+        "weight": 1,
+        "label": "Python"
+      },
+      {
+        "id": "edge-107",
+        "source": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "target": "https://www.hyperdx.io/docs/install/react-native",
+        "weight": 1,
+        "label": "React Native"
+      },
+      {
+        "id": "edge-108",
+        "source": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "target": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "weight": 2,
+        "label": "AWS EC2"
+      },
+      {
+        "id": "edge-109",
+        "source": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "target": "https://www.hyperdx.io/docs/install/kubernetes",
+        "weight": 1,
+        "label": "Kubernetes"
+      },
+      {
+        "id": "edge-110",
+        "source": "https://www.hyperdx.io/docs/install/aws-ec2",
+        "target": "https://www.hyperdx.io/docs/install/vercel",
+        "weight": 1,
+        "label": "Vercel"
+      },
+      {
+        "id": "edge-111",
+        "source": "https://www.hyperdx.io/terms/privacy",
+        "target": "https://www.hyperdx.io/terms/privacy",
+        "weight": 28,
+        "label": "Geolocation data"
+      },
+      {
+        "id": "edge-112",
+        "source": "https://www.hyperdx.io/blog/logs-vs-traces",
+        "target": "https://www.hyperdx.io/blog/logs-vs-traces",
+        "weight": 34,
+        "label": "Intro"
+      },
+      {
+        "id": "edge-113",
+        "source": "https://www.hyperdx.io/blog/datadog-grafana",
+        "target": "https://www.hyperdx.io/blog/datadog-grafana",
+        "weight": 46,
+        "label": "Core Features"
+      },
+      {
+        "id": "edge-114",
+        "source": "https://www.hyperdx.io/blog/datadog-vs-new-relic",
+        "target": "https://www.hyperdx.io/blog/datadog-vs-new-relic",
+        "weight": 46,
+        "label": "Ease of Use"
+      }
+    ]
+  },
+  "metadata": {
+    "startUrl": "https://www.hyperdx.io/",
+    "totalPages": 46,
+    "noiseFiltered": 3,
+    "crawlTimestamp": "2026-02-04T18:49:35.970Z",
+    "crawlDuration": 30883
+  },
+  "statistics": {
+    "nodesByType": {
+      "content": 14,
+      "entry": 1
+    },
+    "averageDepth": 1.13,
+    "maxDepth": 2,
+    "totalEdges": 115
+  }
+}

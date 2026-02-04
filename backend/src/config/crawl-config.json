@@ -1,0 +1,34 @@
+{
+	"startUrl": "https://example.com",
+	"maxDepth": 3,
+	"maxPages": 50,
+	"constraints": {
+		"maxCrawlDurationMs": 180000,
+		"requestTimeoutMs": 30000,
+		"navigationTimeoutMs": 30000,
+		"maxConcurrency": 5,
+		"minTimeBetweenRequestsMs": 200,
+		"maxRequestsPerMinute": 60,
+		"maxLinksPerPage": 50,
+		"followExternalLinks": false,
+		"headless": true,
+		"excludeFileExtensions": [".pdf", ".zip", ".jpg", ".png"],
+		"blockedPathPatterns": ["/admin", "/api"],
+		"allowedPathPatterns": ["/products", "/category"],
+		"userAgent": "CustomBot/1.0",
+		"viewport": {
+			"width": 1920,
+			"height": 1080
+		},
+		"maxRetries": 3,
+		"retryStatusCodes": [429, 500, 502, 503, 504]
+	},
+	"credentials": {
+		"username": "user@example.com",
+		"password": "password123",
+		"loginUrl": "https://example.com/login",
+		"usernameSelector": "input[name='email']",
+		"passwordSelector": "input[name='password']",
+		"submitSelector": "button[type='submit']"
+	}
+}
