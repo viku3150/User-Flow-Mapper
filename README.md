@@ -1,7 +1,6 @@
 Here is a clean, GitHub-ready **README.md** for your project.
 You can copy this directly into a file named `README.md`.
 
-````markdown
 # Intelligent User Flow Mapper
 
 An end-to-end full-stack application that intelligently crawls a website, extracts **meaningful user navigation flows**, and visualizes them as an interactive product-flow diagram.
@@ -91,24 +90,6 @@ Instead of producing a raw link graph, this system detects *real user journeys* 
 
 ---
 
-## 🛠 Tech Stack
-
-**Backend**
-
-* Node.js
-* TypeScript
-* Playwright
-* Cheerio
-
-**Frontend**
-
-* Next.js 14
-* React 18
-* React Flow
-* Tailwind CSS
-
----
-
 ## ⚙️ Installation
 
 ### 1. Clone
@@ -138,14 +119,6 @@ npm run build
 ```bash
 npm start https://example.com 2 20
 ```
-
-Outputs:
-
-* `user-flow-output.json`
-* `user-flow-diagram.txt`
-* `user-flow-mermaid.md`
-* `user-flow-ascii.txt`
-
 ---
 
 ### 3. Frontend Setup
@@ -155,9 +128,6 @@ cd ../frontend
 npm install
 npm run dev
 ```
-
-Visit: **[http://localhost:3000](http://localhost:3000)**
-
 ---
 
 ## 🔗 Wiring Frontend to Backend
@@ -261,22 +231,6 @@ npm start https://example.com --config=crawl-config.json
 | Content     | Info, blogs          |
 | Transaction | Cart, checkout       |
 | Exit        | Logout, confirmation |
-
----
-
-## 📜 License
-
-MIT (or your preferred license)
-
----
-
-## 👨‍💻 Author
-
-Built for intelligent UX flow analysis & product journey visualization.
-
-```
-
----
 
 If you want, I can also:
 - Add badges (Node, Next.js, License)
