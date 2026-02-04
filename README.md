@@ -1,6 +1,3 @@
-Here is a clean, GitHub-ready **README.md** for your project.
-You can copy this directly into a file named `README.md`.
-
 # Intelligent User Flow Mapper
 
 An end-to-end full-stack application that intelligently crawls a website, extracts **meaningful user navigation flows**, and visualizes them as an interactive product-flow diagram.
